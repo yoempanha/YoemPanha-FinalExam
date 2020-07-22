@@ -1,7 +1,9 @@
-package com.panha.asus.yoempanha;
+package com.panha.asus.yoempanha.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.panha.asus.yoempanha.R;
 
 public class OrdersActivity extends AppCompatActivity {
 
